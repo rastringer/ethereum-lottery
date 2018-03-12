@@ -1,5 +1,5 @@
 
-### Ethereum-based messaging
+### Ethereum-based lottery
 
 Simple app featuring solidity smart contracts and mocha testing, with thanks to Stephen Grider's excellent course at Udemy.
 
