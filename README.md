@@ -5,8 +5,6 @@
 [image1]: images/image1.png
 [image1]: images/image2.png
 
-![alt text][image1]
-
 Simple app featuring solidity smart contracts and mocha testing, with thanks to Stephen Grider's excellent course at Udemy.
 
 Lottery app that registers a manager, players, and funds to be contributed and won. MetaMask, the Rinkeby test network, Remix, Infura and Etherscan.
