@@ -1,11 +1,20 @@
 
 ### Ethereum-based lottery
 
+
+[image1]: images/image1.png
+[image1]: images/image2.png
+
+![alt text][image1]
+
 Simple app featuring solidity smart contracts and mocha testing, with thanks to Stephen Grider's excellent course at Udemy.
 
 Lottery app that registers a manager, players, and funds to be contributed and won. MetaMask, the Rinkeby test network, Remix, Infura and Etherscan.
 
 The smart contact logic resides in Lottery.sol and the lottery-react folder contains the React front end. 
+
+![alt text][image1]
+![alt text][image2]
 
 To download and run locally, clone this repo and copy and paste the Lottery.sol into the playground at https://remix.ethereum.org.
 
