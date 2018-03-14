@@ -12,7 +12,6 @@ Lottery app that registers a manager, players, and funds to be contributed and w
 The smart contact logic resides in Lottery.sol and the lottery-react folder contains the React front end. 
 
 ![alt text][image1]
-![alt text][image2]
 
 To download and run locally, clone this repo and copy and paste the Lottery.sol into the playground at https://remix.ethereum.org.
 
